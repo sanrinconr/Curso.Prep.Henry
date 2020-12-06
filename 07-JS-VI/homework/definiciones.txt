@@ -1,0 +1,2 @@
+Callback:
+    Es cuando una funcion recibe como parametro otra funcion que se llama callback
