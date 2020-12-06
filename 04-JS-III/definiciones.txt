@@ -1,0 +1,2 @@
+Array:
+    Es un tipo de variable especial, esto debido a que es una variable que permite guardar variables de cualquier tipo
