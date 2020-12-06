@@ -1,0 +1,14 @@
+Variable
+	Espacio dentro del computador que permite guardar informacion como un numero o un texto
+	
+String
+	Es un texto, como por ejemplo "hola como estas"
+	
+Funciones
+	Es una "Caja" que es capaz de devolver informacion (return) a partir de unos datos de entrada (argumentos)
+	
+Declaracion if:
+	Una herramienta que permite tomar decisiones basada en una condicion, si llueve entonces se activan los parabrisas, por ejemplo
+	
+Valores booleandos:
+	Una variable especial que puede tener unicamente dos valores, cierto o falso
