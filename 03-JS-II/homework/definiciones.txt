@@ -1,0 +1,11 @@
+for:
+	Nos permite repetir una instruccion las veces que se desee, esto esta determinado por una condicion de parada
+	
+&&:
+	Nos permite evaluar dos condiciones para al final devolver verdadero o falso, devolvera verdadero si y solo si ambas condiciones son ciertas
+	
+||:
+	Nos permite evaluar dos condiciones para al final devolver verdadero o falso, devolvera verdadero si por lo menos una de las dos condiciones es verdadera ( en caso de que ambas sean verdaderas, igualmente se devolvera verdadero )
+	
+!:
+	Nos permite negar un booleano, si tenemos la variable true y le aplicamos NOT (!true) se devolvera un false.
