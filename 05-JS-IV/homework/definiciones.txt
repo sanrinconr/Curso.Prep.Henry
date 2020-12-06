@@ -1,0 +1,16 @@
+Objeto:
+    Es una variable que dentro de ella posee propiedades y acciones listas para ser usadas por otra persona
+
+Propiedadades:
+    Son las caracteristicas que definen a un objeto, se definen como clave-valor
+
+Metodos:
+    Es la manera en que un objeto y un programador pueden interactuar entre si, los metodos permiten tanto obtener informacion como modificarla (del objeto)
+
+Bucles for..in:
+    Estos bucles no emplean una variable contador, tan solo hace falta "decirle" que se va a iterar y la variable en que se va a guardar el resultado de cada iteracion
+
+Notacion puntos vs corchetes
+    Ambas permiten lograr un mismo objetivo que puede ser leer o modificar la propiedad de un objeto, la notacion punto permite acceder a una propiedad utilizando un punto por ejemplo usuario.telefono
+    mientras que la notacion corchetes es muy similar al acceso a una matriz, tan solo que en vez de utilizar un indice se utiliza la clave del atributo por ejemplo 
+    usuario['telefono']
