@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(255, 254, 251);
+    color: rgb(44, 44, 44);
+}
+.texto-centrado{
+    text-align: center;
+}
+
+#divPrincipal{
+    margin-left: 300px;
+    margin-right: 300px;
+
+    padding: 30px;
+    padding-top: 10px;
+
+
+    text-align: justify;
+
+    border-style: solid;
+    border-radius: 6px;
+}
+.enLinea{
+  display: inline-flex;
+  vertical-align: top;
+}
+
+#spanDescripcion{
+    padding-top: 20px;
+    padding-left: 20px;
+}
